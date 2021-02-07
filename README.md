@@ -4,7 +4,7 @@
 #### Video Demo:  https://www.youtube.com/watch?v=IkgovC1pjnU
 #### Description: Helps you pick teams with an online web tool. It is hosted on Heroku, and it uses HTML5 and Bootstrap 4. It's very lightweight and simple to use, and it even helps you to save the session so that you can use the same settings on another day.
 Try the website for yourself! Just click on the link below:
-https://teampickme.herokuapp.com/scrambled
+https://teampickme.herokuapp.com
 ## Design choices
 ##### I thought about adding a login system to store inputs by users but found that it was ultimately unnecessary.
 Firstly, I felt that the user should be able to use the tool as soon as possible, as wasting their time would just mean they would not use it and be put off by the requirement of registration.
