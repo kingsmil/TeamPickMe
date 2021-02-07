@@ -1,7 +1,6 @@
 
 
 # TEAM PICK ME
-#### Video Demo:  https://www.youtube.com/watch?v=IkgovC1pjnU
 #### Description: Helps you pick teams with an online web tool. It is hosted on Heroku, and it uses HTML5 and Bootstrap 4. It's very lightweight and simple to use, and it even helps you to save the session so that you can use the same settings on another day.
 Try the website for yourself! Just click on the link below:
 https://teampickme.herokuapp.com
